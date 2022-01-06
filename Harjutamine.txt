@@ -2,3 +2,4 @@ Github on tarkvara arendajatele loodud, et nad saaksid kõiki oma tarkvara versi
 Kui nad teevad oma koodis mingeid muudatusi, siis kõik need muudatused jäävad siin nähtavaks.
 Ning kõik arendajate projektid on siit saadaval, kui nad seda soovivad. Näiteks Linuxile programme 
 installides saab seda GitHubist teha lihtsamalt kui mujalt.
+Ning seda kasutavadki põhiliselt tarkvara arendajad, kuid seda saab ka kasutada nt. mitme inimese poolt kasutuses oleva Wordi faili ajaloo jälgimiseks.

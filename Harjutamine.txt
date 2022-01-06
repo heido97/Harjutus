@@ -6,3 +6,10 @@ Ning seda kasutavadki põhiliselt tarkvara arendajad, kuid seda saab ka kasutada
 Mina saan seda edaspidi kasutada:
 näiteks oma tööl uue lisa arendamine meie süsteemile
 ja installida teiste programme, mis on siin valikul
+
+GitHubi asutajad on: 	
+Tom Preston-Werner
+Chris Wanstrath
+P. J. Hyett
+Scott Chacon
+GitHubi arendust alustati 19.10.2007 ning sai valmis 10.04.2008.

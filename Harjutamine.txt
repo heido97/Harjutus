@@ -3,6 +3,3 @@ Kui nad teevad oma koodis mingeid muudatusi, siis kõik need muudatused jäävad
 Ning kõik arendajate projektid on siit saadaval, kui nad seda soovivad. Näiteks Linuxile programme 
 installides saab seda GitHubist teha lihtsamalt kui mujalt.
 Ning seda kasutavadki põhiliselt tarkvara arendajad, kuid seda saab ka kasutada nt. mitme inimese poolt kasutuses oleva Wordi faili ajaloo jälgimiseks.
-Mina saan seda edaspidi kasutada:
-näiteks oma tööl uue lisa arendamine meie süsteemile
-ja installida teiste programme, mis on siin valikul

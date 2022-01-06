@@ -5,4 +5,4 @@ installides saab seda GitHubist teha lihtsamalt kui mujalt.
 Ning seda kasutavadki põhiliselt tarkvara arendajad, kuid seda saab ka kasutada nt. mitme inimese poolt kasutuses oleva Wordi faili ajaloo jälgimiseks.
 Mina saan seda edaspidi kasutada:
 näiteks oma tööl uue lisa arendamine meie süsteemile
-ja installida teiste programme, mis on siin valikul.
+ja installida teiste programme, mis on siin valikul
